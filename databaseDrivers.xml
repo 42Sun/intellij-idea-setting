@@ -1,0 +1,16 @@
+<application>
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="elasticsearch">
+      <artifact id="Elasticsearch" name="Elasticsearch" use="true" version="7.10.2" />
+    </driver>
+    <driver id="cassandra">
+      <url-template name="new" template="jdbc:cassandra://reco-cassandra.internal.mxplay.com:9042:9042" />
+      <url-template name="new" template="jdbc:cassandra://reco-cassandra.internal.mxplay.com:9042:9042" />
+      <artifact id="Cassandra" name="Cassandra" use="true" version="1.4" />
+    </driver>
+    <driver id="mysql.8">
+      <artifact />
+      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />
+    </driver>
+  </component>
+</application>
