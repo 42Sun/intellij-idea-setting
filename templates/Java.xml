@@ -1,0 +1,7 @@
+<templateSet group="Java">
+  <template name="todo" value="// TODO Dingyi: " toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
