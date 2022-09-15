@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="jump-test.yangqianguan.com" id="e7e066aa-6d0b-4320-9c17-15d5e308072b" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="yqg" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
