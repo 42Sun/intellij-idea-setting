@@ -1,3 +1,9 @@
 <code_scheme name="Default" version="173">
   <option name="ENABLE_SECOND_REFORMAT" value="true" />
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
+  <codeStyleSettings language="JAVA">
+    <option name="WRAP_LONG_LINES" value="true" />
+  </codeStyleSettings>
 </code_scheme>
