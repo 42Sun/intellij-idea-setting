@@ -3,6 +3,7 @@
     <configs>
       <sshConfig host="jump-test.yangqianguan.com" id="e7e066aa-6d0b-4320-9c17-15d5e308072b" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="yqg" useOpenSSHConfig="true" />
       <sshConfig authType="OPEN_SSH" host="172.20.64.21" id="08508e82-442d-4892-9bfe-f59ebaea799e" port="22" nameFormat="DESCRIPTIVE" username="yqg" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="jump.yangqianguan.com" id="d1af2111-2fca-4ac5-8b2b-9d7cb9d62f6b" port="22" nameFormat="DESCRIPTIVE" username="15512341949" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
