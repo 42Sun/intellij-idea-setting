@@ -2,9 +2,9 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
-        <option name="checkUsage" value="76" />
+        <option name="checkUsage" value="79" />
         <option name="generateWithIfTest" value="true" />
-        <option name="maxMeetContext" value="88" />
+        <option name="maxMeetContext" value="128" />
         <option name="valid" value="true" />
       </Profile>
     </option>
