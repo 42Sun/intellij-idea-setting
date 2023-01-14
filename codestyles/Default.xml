@@ -5,6 +5,5 @@
   </JavaCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
-    <option name="WRAP_LONG_LINES" value="true" />
   </codeStyleSettings>
 </code_scheme>
