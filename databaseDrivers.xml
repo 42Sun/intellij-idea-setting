@@ -8,7 +8,7 @@
       <url-template name="new" template="jdbc:cassandra://reco-cassandra.internal.mxplay.com:9042:9042" />
       <artifact id="Cassandra" name="Cassandra" use="true" version="1.4" />
     </driver>
-    <driver id="mariadb" dialect="MySQL">
+    <driver id="mariadb">
       <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="3.0.7" />
     </driver>
     <driver id="mysql.8">
