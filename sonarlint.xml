@@ -1,5 +1,24 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <rules />
+    <option name="rulesByKey">
+      <map>
+        <entry key="java:S110">
+          <value>
+            <Rule key="java:S110">
+              <params>
+                <param key="max" value="10" />
+              </params>
+            </Rule>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <rules>
+      <Rule key="java:S110">
+        <params>
+          <param key="max" value="10" />
+        </params>
+      </Rule>
+    </rules>
   </component>
 </application>
