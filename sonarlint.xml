@@ -11,6 +11,11 @@
             </Rule>
           </value>
         </entry>
+        <entry key="java:S120">
+          <value>
+            <Rule active="false" key="java:S120" />
+          </value>
+        </entry>
       </map>
     </option>
     <rules>
@@ -19,6 +24,7 @@
           <param key="max" value="10" />
         </params>
       </Rule>
+      <Rule active="false" key="java:S120" />
     </rules>
   </component>
 </application>
