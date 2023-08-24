@@ -3,7 +3,11 @@
     <option name="author" value="sundingyi" />
     <option name="projectWordMap">
       <map>
-        <entry key="cash_loan" />
+        <entry key="cash_loan">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="treasury_management">
           <value>
             <map />
