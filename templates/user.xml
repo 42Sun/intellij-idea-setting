@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="td" value="// TODO Dingyi " toReformat="false" toShortenFQNames="true">
+  <template name="td" value="// TODO Dingyi " description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
