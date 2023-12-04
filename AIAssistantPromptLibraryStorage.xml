@@ -6,7 +6,7 @@
           <value>
             <AIAssistantStoredPrompt>
               <option name="builtIn" value="true" />
-              <option name="content" value="Find potential problems in the code:&#10;&#10;$SELECTION" />
+              <option name="content" value="找到代码中的潜在问题：&#10;&#10;$SELECTION" />
               <option name="hasCustomTitle" value="true" />
               <option name="id" value="builtin_findproblems" />
               <option name="name" value="Find problems in code" />
@@ -33,7 +33,7 @@
           <value>
             <AIAssistantStoredPrompt>
               <option name="builtIn" value="true" />
-              <option name="content" value="Refactor the following code:&#10;&#10;$SELECTION" />
+              <option name="content" value="重构以下代码：&#10;&#10;$SELECTION" />
               <option name="hasCustomTitle" value="true" />
               <option name="id" value="builtin_refactoring" />
               <option name="name" value="Suggest refactoring" />
