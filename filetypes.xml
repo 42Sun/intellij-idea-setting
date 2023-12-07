@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="19">
     <extensionMap>
       <mapping ext="thrift" type="PLAIN_TEXT" />
       <removed_mapping pattern="**spring-configuration-metadata.json" approved="true" type="JSON" />
