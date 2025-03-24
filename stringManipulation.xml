@@ -1,0 +1,25 @@
+<application>
+  <component name="StringManipulationState">
+    <option name="lastActionModel">
+      <UniversalActionModel>
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToSnakeCaseOrCamelCaseAction" />
+        <option name="description" value="Toggle: snake_case / camelCase" />
+        <option name="textWithMnemonic" value="snake_case / camelCase" />
+      </UniversalActionModel>
+    </option>
+    <option name="sortSettings">
+      <SortSettings>
+        <option name="collatorLanguageTag" value="en_CN" />
+      </SortSettings>
+    </option>
+    <option name="sortTokensModel">
+      <SortTokensModel>
+        <option name="sortSettings">
+          <SortSettings>
+            <option name="collatorLanguageTag" value="en_CN" />
+          </SortSettings>
+        </option>
+      </SortTokensModel>
+    </option>
+  </component>
+</application>
