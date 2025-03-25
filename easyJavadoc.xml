@@ -24,13 +24,13 @@
           </value>
         </entry>
         <entry key="treasury_management_infra" />
-        <entry key="treasury_management_philippines">
+        <entry key="treasury_management_philippines" />
+        <entry key="treasury_management_project_parent" />
+        <entry key="treasury_management_settlement">
           <value>
             <map />
           </value>
         </entry>
-        <entry key="treasury_management_project_parent" />
-        <entry key="treasury_management_settlement" />
       </map>
     </option>
     <option name="simpleFieldDoc" value="true" />
