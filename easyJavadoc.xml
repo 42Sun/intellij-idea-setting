@@ -3,16 +3,34 @@
     <option name="author" value="sundingyi" />
     <option name="projectWordMap">
       <map>
-        <entry key="cash_loan">
+        <entry key="cash_loan" />
+        <entry key="cash_loan_reconcile" />
+        <entry key="mapstruct-demo" />
+        <entry key="mapstruct-demo-21" />
+        <entry key="treasury_management" />
+        <entry key="treasury_management_accounting">
           <value>
             <map />
           </value>
         </entry>
-        <entry key="treasury_management">
+        <entry key="treasury_management_event">
           <value>
             <map />
           </value>
         </entry>
+        <entry key="treasury_management_indonesia">
+          <value>
+            <map />
+          </value>
+        </entry>
+        <entry key="treasury_management_infra" />
+        <entry key="treasury_management_philippines">
+          <value>
+            <map />
+          </value>
+        </entry>
+        <entry key="treasury_management_project_parent" />
+        <entry key="treasury_management_settlement" />
       </map>
     </option>
     <option name="simpleFieldDoc" value="true" />
