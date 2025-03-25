@@ -19,6 +19,7 @@
     <EXCLUDED_PACKAGE NAME="org.apache.poi.xwpf.converter.core.utils.StringUtils" />
     <EXCLUDED_PACKAGE NAME="org.assertj.core.util.Lists" />
     <EXCLUDED_PACKAGE NAME="org.junit.jupiter.api.Test" />
+    <EXCLUDED_PACKAGE NAME="org.mockito.runners.MockitoJUnitRunner" />
     <EXCLUDED_PACKAGE NAME="org.springframework.util.CollectionUtils" />
     <EXCLUDED_PACKAGE NAME="org.springframework.web.bind.annotation.Mapping" />
   </component>
