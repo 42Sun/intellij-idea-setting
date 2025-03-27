@@ -11,6 +11,7 @@
     <EXCLUDED_PACKAGE NAME="com.baomidou.mybatisplus.core.toolkit.StringUtils" />
     <EXCLUDED_PACKAGE NAME="com.yqg.ec.common.serialization.JsonUtils" />
     <EXCLUDED_PACKAGE NAME="com.yqg.reconciliation.common.util.json.JsonUtils" />
+    <EXCLUDED_PACKAGE NAME="javax.validation.constraints.NotEmpty" />
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal.objects.annotations" />
     <EXCLUDED_PACKAGE NAME="lombok.experimental.Builder" />
     <EXCLUDED_PACKAGE NAME="org.apache.commons.collections" />
