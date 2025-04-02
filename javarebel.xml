@@ -3,7 +3,7 @@
     <option name="ideInstallationStorage">
       <map>
         <entry key="com.zeroturnaround.jrebel.ide.RemoteServerIdCounter" value="1" />
-        <entry key="com.zeroturnaround.jrebel.ide.RemoteServers" value="{&quot;RemoteServers&quot;:[{&quot;syncEnabled&quot;:&quot;true&quot;,&quot;serverAuthenticationPassword&quot;:&quot;&quot;,&quot;httpBasicAuthenticationUser&quot;:&quot;&quot;,&quot;httpBasicAuthenticationPassword&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;useServerAuthentication&quot;:&quot;false&quot;,&quot;deleteFilesOnServer&quot;:&quot;true&quot;,&quot;id&quot;:&quot;1&quot;,&quot;useHttpBasicAuthentication&quot;:&quot;false&quot;,&quot;url&quot;:&quot;http://swim-lane-overseas.fintopia.tech:30201&quot;}]}" />
+        <entry key="com.zeroturnaround.jrebel.ide.RemoteServers" value="{&quot;RemoteServers&quot;:[{&quot;syncEnabled&quot;:&quot;true&quot;,&quot;serverAuthenticationPassword&quot;:&quot;&quot;,&quot;httpBasicAuthenticationUser&quot;:&quot;&quot;,&quot;httpBasicAuthenticationPassword&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;useServerAuthentication&quot;:&quot;false&quot;,&quot;deleteFilesOnServer&quot;:&quot;true&quot;,&quot;id&quot;:&quot;1&quot;,&quot;useHttpBasicAuthentication&quot;:&quot;false&quot;,&quot;url&quot;:&quot;http://swim-lane-overseas.fintopia.tech:30200&quot;}]}" />
         <entry key="com.zeroturnaround.jrebel.intellij.autocompile.enabled" value="true" />
         <entry key="com.zeroturnaround.jrebel.intellij.autocompile.feature-seen" value="true" />
         <entry key="com.zeroturnaround.jrebel.intellij.autosave.enabled" value="true" />
