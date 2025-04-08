@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="19">
     <extensionMap>
+      <mapping pattern="arc-commit-hook" type="AUTO_DETECTED" />
       <mapping ext="thrift" type="PLAIN_TEXT" />
       <removed_mapping pattern="**spring-configuration-metadata.json" approved="true" type="JSON" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
