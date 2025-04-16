@@ -7,9 +7,18 @@
         <entry key="cash_loan_reconcile" />
         <entry key="mapstruct-demo" />
         <entry key="mapstruct-demo-21" />
+        <entry key="phi-ec">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="sea-ec" />
         <entry key="treasury_management" />
-        <entry key="treasury_management_accounting" />
+        <entry key="treasury_management_accounting">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="treasury_management_event">
           <value>
             <map />
@@ -17,9 +26,17 @@
         </entry>
         <entry key="treasury_management_indonesia" />
         <entry key="treasury_management_infra" />
-        <entry key="treasury_management_philippines" />
+        <entry key="treasury_management_philippines">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="treasury_management_project_parent" />
-        <entry key="treasury_management_settlement" />
+        <entry key="treasury_management_settlement">
+          <value>
+            <map />
+          </value>
+        </entry>
       </map>
     </option>
     <option name="simpleFieldDoc" value="true" />
