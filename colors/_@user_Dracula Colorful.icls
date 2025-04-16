@@ -7,6 +7,12 @@
     <property name="pluginId">com.vermouthx.idea</property>
   </metaInfo>
   <attributes>
+    <option name="LINE_FULL_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="2bf32b" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="LINE_NONE_COVERAGE">
       <value>
         <option name="FOREGROUND" value="a80a0a" />
