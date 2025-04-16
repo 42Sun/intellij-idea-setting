@@ -2,6 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="OPEN_SSH" host="172.20.64.21" id="84585394-e44c-4bcb-a94b-2371e73a1965" port="22" nameFormat="DESCRIPTIVE" username="yqg" useOpenSSHConfig="true" />
+      <sshConfig host="47.94.197.48" id="81370f25-b08f-4235-9217-28d9ba9fe1e4" keyPath="$USER_HOME$/.ssh/id_rsa_personal" port="22" nameFormat="DESCRIPTIVE" username="yqg" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
