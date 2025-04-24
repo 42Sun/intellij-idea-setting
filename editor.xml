@@ -9,12 +9,14 @@
     <EXCLUDED_PACKAGE NAME="com.alibaba.excel.util" />
     <EXCLUDED_PACKAGE NAME="com.baomidou.mybatisplus.core.toolkit.CollectionUtils" />
     <EXCLUDED_PACKAGE NAME="com.baomidou.mybatisplus.core.toolkit.StringUtils" />
+    <EXCLUDED_PACKAGE NAME="com.ibm.icu.math.BigDecimal" />
     <EXCLUDED_PACKAGE NAME="com.sun.javafx.collections.MappingChange.Map" />
     <EXCLUDED_PACKAGE NAME="com.sun.xml.internal.xsom.impl.scd.Iterators.Map" />
     <EXCLUDED_PACKAGE NAME="com.yqg.ec.common.serialization.JsonUtils" />
     <EXCLUDED_PACKAGE NAME="com.yqg.reconciliation.common.util.json.JsonUtils" />
     <EXCLUDED_PACKAGE NAME="javax.validation.constraints.NotEmpty" />
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal.objects.annotations" />
+    <EXCLUDED_PACKAGE NAME="jodd.introspector.Mapper" />
     <EXCLUDED_PACKAGE NAME="lombok.experimental.Builder" />
     <EXCLUDED_PACKAGE NAME="org.apache.commons.collections" />
     <EXCLUDED_PACKAGE NAME="org.apache.commons.lang" />
@@ -24,6 +26,7 @@
     <EXCLUDED_PACKAGE NAME="org.assertj.core.api.AssertionsForInterfaceTypes.assertThat" />
     <EXCLUDED_PACKAGE NAME="org.assertj.core.util.Lists" />
     <EXCLUDED_PACKAGE NAME="org.hamcrest.MatcherAssert.assertThat" />
+    <EXCLUDED_PACKAGE NAME="org.joda.time.LocalDate" />
     <EXCLUDED_PACKAGE NAME="org.joda.time.LocalDateTime" />
     <EXCLUDED_PACKAGE NAME="org.jooq.tools.StringUtils" />
     <EXCLUDED_PACKAGE NAME="org.junit.Assert.assertThat" />
