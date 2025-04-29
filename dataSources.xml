@@ -7,5 +7,12 @@
       <jdbc-url>jdbc:mysql://rm-2ze85f0036p4q5i12.mysql.rds.aliyuncs.com/</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="sea_test@rm-2zem0r0z1anm1s2cm.mysql.rds.aliyuncs.com" uuid="777cef0f-df6f-4063-bdae-0b61f438f99b">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://rm-2zem0r0z1anm1s2cm.mysql.rds.aliyuncs.com/sea_test?useSSL=false&amp;allowPublicKeyRetrieval=true&amp;serverTimezone=UTC&amp;useLegacyDatetimeCode=false</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
