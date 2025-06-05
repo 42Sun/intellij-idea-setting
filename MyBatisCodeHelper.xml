@@ -2,6 +2,7 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
+        <option name="maxMeetContext" value="28" />
         <option name="useD1" value="1749091546441" />
         <option name="valid" value="true" />
       </Profile>
