@@ -1,5 +1,6 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="focusOnNewCode" value="true" />
     <option name="rulesByKey">
       <map>
         <entry key="java:S110">
