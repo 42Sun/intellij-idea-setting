@@ -4,6 +4,7 @@
       <mapping pattern="arc-commit-hook" type="AUTO_DETECTED" />
       <mapping pattern=".arcconfig" type="PLAIN_TEXT" />
       <mapping ext="thrift" type="PLAIN_TEXT" />
+      <mapping ext="mdc" type="PLAIN_TEXT" />
       <removed_mapping pattern="**spring-configuration-metadata.json" approved="true" type="JSON" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="pdf" approved="true" type="Native" />
